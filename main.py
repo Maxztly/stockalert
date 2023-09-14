@@ -21,4 +21,3 @@ window_height = 300
 center_window(root, window_width, window_height)
 
 root.mainloop()
-
